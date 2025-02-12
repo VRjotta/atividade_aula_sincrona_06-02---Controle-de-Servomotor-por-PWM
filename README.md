@@ -62,3 +62,4 @@ Este projeto demonstrou como controlar um servomotor via PWM no Raspberry Pi Pic
 
 ## Vídeo Ensaio
 O vídeo ensaio com a apresentação da solução e os resultados obtidos pode ser acessado no seguinte link
+https://www.loom.com/share/6cd938ef0097415ca2446835c95c8bf8?sid=4af206de-c55a-4322-b908-7c26b5e7b424
