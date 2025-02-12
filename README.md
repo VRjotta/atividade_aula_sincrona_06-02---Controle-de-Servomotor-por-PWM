@@ -61,5 +61,4 @@ Para configurar o ambiente de desenvolvimento, siga as instruções abaixo:
 Este projeto demonstrou como controlar um servomotor via PWM no Raspberry Pi Pico W e analisar o comportamento do LED RGB na plataforma BitDogLab. O servo foi posicionado corretamente nos ângulos de 0°, 90° e 180°, e a movimentação suave foi realizada com sucesso.
 
 ## Vídeo Ensaio
-O vídeo ensaio com a apresentação da solução e os resultados obtidos pode ser acessado no seguinte link:
-[Inserir Link do Vídeo Aqui]
+O vídeo ensaio com a apresentação da solução e os resultados obtidos pode ser acessado no seguinte link
