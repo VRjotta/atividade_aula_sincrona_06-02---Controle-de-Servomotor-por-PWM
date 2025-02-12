@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### atividade_aula_sincrona_06-02 - Controle de Servomotor por PWM
 
 ## Descrição do Projeto
@@ -64,8 +63,3 @@ Este projeto demonstrou como controlar um servomotor via PWM no Raspberry Pi Pic
 ## Vídeo Ensaio
 O vídeo ensaio com a apresentação da solução e os resultados obtidos pode ser acessado no seguinte link:
 [Inserir Link do Vídeo Aqui]
-
-## Autor
-Jotta
-
-=======
